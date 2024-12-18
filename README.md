@@ -117,3 +117,9 @@ Generative AI systems, particularly large language models (LLMs), have gained pr
 ---
 
 [medium.com](https://medium.com/@soungbin.cho/unveiling-the-future-of-ai-a-survey-on-prompting-techniques-and-applications-a2dd372cb63a)
+---
+
+https://github.com/user-attachments/assets/e2093193-bd55-49b2-bd4a-b1ea3bf3e627
+
+
+
