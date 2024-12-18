@@ -1,7 +1,5 @@
 # CMPE297_ShortStory
 
-#
-
 # Taxonomy and Advances in Prompting Techniques for Generative AI: A Survey-Based Overview
 
 Generative AI systems, particularly large language models (LLMs), have gained prominence across industries and research domains. Their effectiveness hinges on the design and utilization of prompts—instructions guiding the models’ outputs. Below is a synthesis of the taxonomy and techniques derived from the uploaded survey paper and broader research.
@@ -115,3 +113,7 @@ Generative AI systems, particularly large language models (LLMs), have gained pr
 ### 3. Evaluation Standards
 
 -   Developing consistent metrics for evaluating prompt performance.
+
+---
+
+[medium.com](https://medium.com/@soungbin.cho/unveiling-the-future-of-ai-a-survey-on-prompting-techniques-and-applications-a2dd372cb63a)
